@@ -1,6 +1,7 @@
 [
   { "name": "testapp" },
   { "name": "ez-game" },
+  { "name": "magnets" },
   { "name": "reverse-proxy", "pm2": "proxy" },
   { "name": "scraping-test", "pm2": "scraping" },
   { "name": "git-auto" }
